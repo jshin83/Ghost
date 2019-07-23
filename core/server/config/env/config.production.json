@@ -5,7 +5,7 @@
     "database": {
         "client": "mysql",
         "connection": {
-            "host"     : "127.0.0.1",
+            "host"     : "ghost.cnvpajxbuyzx.us-west-2.rds.amazonaws.com",
             "user"     : "root",
             "password" : "password",
             "database" : "ghost"
