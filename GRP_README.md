@@ -1,4 +1,6 @@
 ## Deploying with AWS
+### Team Members
+**Jorie, Williams O., Kishor, Jen Shin**
 
 ### Testing Ghost locally:
 1.	Fork and clone the repo: https://github.com/tryghost/ghost
