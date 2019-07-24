@@ -18,6 +18,10 @@ c.	Type in ```ghost install local```
 1.	Update configuration file for mysql by navigating to directory: core > server > config > env > config.production.json. Here, you can set up username, password, and database name.
 2.	On package.json, find mysql and update version i.e 5.5.46
 ![](./images.config.png)
+3. added url to config prod -> elastic beanstalk url
+4. changed port to 8081
+5. reverted mysql version back to 2.17.1 -> npm install fails
+6. unable to connect to AWS RDS
 
 ### RDS SetUp
 1. Choose mysql
