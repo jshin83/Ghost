@@ -33,3 +33,7 @@ c.	Type in ```ghost install local```
 1. Setting up config for mysql
 2. How to connect db to application -- tried various methods which were not successful
 ![](./images/pipelineError.png)
+3. mySql dependency version conflicts
+![](./images/prod.png)
+![](./images/prodError.png)
+
